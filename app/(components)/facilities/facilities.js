@@ -3,7 +3,7 @@ import Image from "next/image"
 export default function Facilities(props) {
   return (
     <div className="facilities-col">
-                <Image src={props.src}
+                <Image alt="" src={props.src}
                 width={"200"}
                 height={"220"}
                 />

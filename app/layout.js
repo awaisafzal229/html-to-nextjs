@@ -1,7 +1,5 @@
 import "@/app/globals.css"
 import Footer from "./(components)/footer/footer"
-// import Navbar from "./(components)/navbar/navbar"
-// import Header from "./(components)/header/header"
 
 export default function RootLayout({ children }) {
   return (

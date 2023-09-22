@@ -14,7 +14,7 @@ function Page() {
         <div className="blog-left">
                 <h2>Our Certificate & Online Program</h2>
                 <h5>Aug 1, 2021</h5>
-                <Image src={"/post.png"}
+                <Image alt='' src={"/post.png"}
                 width={"500"}
                 height={"470"} />
                 {/* <img src="img/post.png" alt=""/> */}

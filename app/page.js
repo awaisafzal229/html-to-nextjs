@@ -1,6 +1,6 @@
 import Link from "next/link";
-import HomeNotes from "./blog/(components)/homePageNote/homeNotes";
-import HomeCards from "./blog/(components)/homeCards/homeCards";
+import HomeNotes from "./(components)/homePageNote/homeNotes";
+import HomeCards from "./(components)/homeCards/homeCards";
 import Facilities from "./(components)/facilities/facilities";
 import TestCard from "./(components)/testCard/testCard";
 

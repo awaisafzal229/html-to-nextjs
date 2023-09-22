@@ -3,7 +3,7 @@ import Image from "next/image"
 export default function TestCard(props) {
   return (
     <div className="testimonials-col">
-                <Image src={props.src}
+                <Image alt="" src={props.src}
                 width={"200"}
                 height={"100"}
                 />

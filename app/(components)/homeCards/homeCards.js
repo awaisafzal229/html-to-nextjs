@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function HomeCards(props) {
   return (
     <div className="campus-col">
-        <Image src={props.src}
+        <Image alt="" src={props.src}
         width={"100"}
         height={"220"}
         />
